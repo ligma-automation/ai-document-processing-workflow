@@ -1,0 +1,21 @@
+SERVICE AGREEMENT
+
+Parties:
+Vertex Technology Solutions
+and
+Crescent Health Services
+
+Effective Date: 2026-09-01
+Contract Term: 12 months
+
+Scope of Services:
+Vertex Technology Solutions will provide API integration,
+data pipeline monitoring, and automated reporting support.
+
+Monthly Fee: $6,500
+
+Termination:
+Either party may terminate with 30 days written notice.
+
+Confidentiality:
+Both parties agree to protect confidential business information.

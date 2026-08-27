@@ -1,0 +1,13 @@
+SUPPORT REQUEST
+
+Customer: Oakline Partners
+Ticket Number: SUP-44218
+Priority: High
+
+Issue:
+The automated financial report did not refresh this morning.
+The dashboard is showing yesterday's data.
+
+Requested Action:
+Please investigate the failed refresh and restore reporting access
+before the 2:00 PM executive meeting.

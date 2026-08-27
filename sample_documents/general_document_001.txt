@@ -1,0 +1,14 @@
+INTERNAL MEMO
+
+To: Operations Leadership
+From: Business Analytics Team
+Date: 2026-08-21
+
+Subject: Weekly Reporting Process
+
+The operations team currently spends approximately four hours
+each Friday consolidating location-level spreadsheets before
+leadership reporting can begin.
+
+The team would like to evaluate automation opportunities for
+file consolidation, validation, exception reporting, and KPI generation.

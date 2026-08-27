@@ -1,0 +1,16 @@
+PURCHASE ORDER
+
+PO Number: PO-77831
+Supplier: Pioneer Manufacturing
+Order Date: 2026-08-14
+Requested Delivery Date: 2026-09-01
+
+Items:
+25 Industrial Sensors @ $185.00 each
+10 Control Modules @ $420.00 each
+
+Total Order Value: $8,825.00
+
+Ship To:
+Northstar Logistics
+Atlanta Distribution Center

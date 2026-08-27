@@ -1,0 +1,13 @@
+SUPPORT REQUEST
+
+Customer: Atlas Medical Group
+Ticket Number: SUP-55903
+Priority: Medium
+
+Issue:
+Several incoming CSV files were rejected during the nightly
+reporting process due to unexpected column names.
+
+Requested Action:
+Review the incoming file structure and identify which files
+require correction.

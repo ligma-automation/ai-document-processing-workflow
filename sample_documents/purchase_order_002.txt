@@ -1,0 +1,16 @@
+PURCHASE ORDER
+
+PO Number: PO-88510
+Supplier: Evergreen Retail Systems
+Order Date: 2026-08-20
+Requested Delivery Date: 2026-09-05
+
+Items:
+50 Barcode Scanners @ $95.00 each
+20 Mobile Workstations @ $310.00 each
+
+Total Order Value: $10,950.00
+
+Ship To:
+Redwood Operations
+Dallas Facility
